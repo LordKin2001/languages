@@ -48,7 +48,7 @@ p {
 
 @media screen and (prefers-color-scheme: dark) {
     body {
-      background: black;
+      background: rgb(150, 135, 135);;
       color: white;
         }
   }
