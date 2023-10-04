@@ -48,8 +48,8 @@ p {
 
 @media screen and (prefers-color-scheme: dark) {
     body {
-      background: rgb(150, 135, 135);;
-      color: white;
+      background: bisque;
+      color: black;
         }
   }
 
